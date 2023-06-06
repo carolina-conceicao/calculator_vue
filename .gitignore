@@ -8,6 +8,7 @@ pnpm-debug.log*
 lerna-debug.log*
 
 node_modules
+primeiro_projeto_vue
 .DS_Store
 dist
 dist-ssr
